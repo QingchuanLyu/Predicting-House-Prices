@@ -1,2 +1,3 @@
 # Predicting-House-Prices
-Predicting house prices with advanced regression techniques (Python). See "0.Project_Description" for an overview.
+--Used box-cox transformation to normalize skewed features; utilized PCA to reduce dimensionality by 35%
+--Experimented with Linear Regression, Random Forest, Elastic Net and XGBoost; built a weighted average metal model and achieved top 10% accuracy as of November 2019.
