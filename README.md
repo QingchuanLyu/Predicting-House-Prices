@@ -6,3 +6,5 @@ This project predicted house prices in Ames, Iowa with 79 features (2006-2010). 
 * PCA helped avoid overfitting by combining collinear features for linear models; Random Forest with PCA performed slightly better (0.17 vs 0.18 RMSE) but needed many more trees in each iteration (99 vs 50 trees).
 
 These updates decreased RMSE from 0.24 to 0.18 with Random Forest, and from 0.33 to 0.13 with Elastic Net embedded with PCA.
+
+Reflective essay: https://qingchuanlyu.medium.com/redoing-projects-part-i-regressors-ed4a0500f89b
